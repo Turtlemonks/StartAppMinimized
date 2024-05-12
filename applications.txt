@@ -1,0 +1,12 @@
+# This is the applications.txt file for the StartAppsMinimized PowerShell script.
+# Each line below should contain the full path to an executable and the main window title of the application, separated by a comma.
+# Ensure there are no extra spaces around the comma.
+# Example Format:
+# C:\Path\To\Application.exe,Application Window Title
+
+# Please replace the lines below with your own applications. Remove the hash (#) at the start of each line for lines you want the script to process.
+
+# Example entries (uncomment and modify according to your applications):
+# C:\Program Files\Google\Chrome\Application\chrome.exe,New Tab - Google Chrome
+# C:\Program Files\Mozilla Firefox\firefox.exe,New Tab - Mozilla Firefox
+
